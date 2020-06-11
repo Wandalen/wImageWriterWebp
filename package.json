@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageWriterWebp/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagewriterwebp" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagewriterwebp" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
