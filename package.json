@@ -1,22 +1,34 @@
 {
-  "name" : "wimagewriterwebp",
-  "version" : "0.2.46",
-  "description" : "___",
-  "author" : "Kostiantyn Wandalen <wanalen@01.school>",
-  "license" : "MIT",
-  "main" : "proto/wtools/Tools.s",
-  "files" : [ "proto/wtools/___", "proto/wtools/Tools.s" ],
-  "scripts" : { "test" : "wtest .run proto rapidity:-3", "docgen" : "wdocgen .build proto" },
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/Wandalen/wImageWriterWebp.git"
+  "name": "wimagewriterwebp",
+  "version": "0.2.47",
+  "description": "___",
+  "author": "Kostiantyn Wandalen <wanalen@01.school>",
+  "license": "MIT",
+  "main": "proto/wtools/Tools.s",
+  "files": [
+    "proto/wtools/___",
+    "proto/wtools/Tools.s"
+  ],
+  "scripts": {
+    "test": "wtest .run proto rapidity:-3",
+    "docgen": "wdocgen .build proto"
   },
-  "bugs" :
-  {
-    "url" : "https://github.com/Wandalen/wImageWriterWebp/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wandalen/wImageWriterWebp.git"
   },
-  "dependencies" : { "wTools" : "alpha" },
-  "devDependencies" : { "eslint" : "7.1.0", "wimagewriterwebp" : "file:.", "wTesting" : "alpha" },
-  "keywords" : [ "wTools" ]
+  "bugs": {
+    "url": "https://github.com/Wandalen/wImageWriterWebp/issues"
+  },
+  "dependencies": {
+    "wTools": "alpha"
+  },
+  "devDependencies": {
+    "eslint": "7.1.0",
+    "wTesting": "alpha",
+    "wimagewriterwebp": "file:."
+  },
+  "keywords": [
+    "wTools"
+  ]
 }
