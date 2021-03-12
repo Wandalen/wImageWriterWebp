@@ -1,6 +1,6 @@
 {
   "name": "wimagewriterwebp",
-  "version": "0.2.62",
+  "version": "0.2.63",
   "description": "___",
   "author": "Kostiantyn Wandalen <wanalen@01.school>",
   "license": "MIT",
@@ -21,11 +21,11 @@
     "url": "https://github.com/Wandalen/wImageWriterWebp/issues"
   },
   "dependencies": {
-    "wTools": "alpha"
+    "wTools": "gamma"
   },
   "devDependencies": {
     "eslint": "7.1.0",
-    "wTesting": "alpha",
+    "wTesting": "gamma",
     "wimagewriterwebp": "file:."
   },
   "keywords": [
